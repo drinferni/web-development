@@ -1,0 +1,73 @@
+.l {
+	margin:auto;
+	position:absolute;
+	top:22vh;
+	left:30vw;
+}
+main {
+	width:100%;
+	position:absolute;
+	top:2vh;
+	left:0vw;
+
+}
+Input [type="text"] {
+	width:500px;
+}
+.box {
+	width:550px;
+	height:2rem;
+	position:relative;
+	top:52vh;
+	left:33vw;
+	background:#dbdcde;
+}
+.gmail {
+	position: absolute;
+	top:3vh;
+	right:5vw;
+}
+.img {
+	position:absolute;
+	top:3vh;
+	right:2vh;
+}
+.gog {
+	background:#dbdcde;
+	border:1px solid #000;
+	padding=0;
+	position:absolute;
+	top:59vh;
+	left:38vw;
+}
+.luck {
+	background:#dbdcde;
+	border:1px solid #000;
+	padding:0px;
+	position:absolute;
+	top:59vh;
+	right:37vw;
+
+}
+
+
+.ind {
+	width:100vw;
+	background:#dbdcde;
+	padding:0px;
+	position:absolute;
+	top:83.2vh;
+	left:0px;
+	}
+.final {
+	width:100vw;
+	background:#dbdcde;
+	padding:0px;
+	height:70px;
+	position:absolute;
+	top:86vh;
+	left:0px;
+	word-spacing:30px;
+}
+
+
