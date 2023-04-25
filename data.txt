@@ -1,0 +1,10 @@
+Google-https://www.google.com
+YouTube-https://www.youtube.com
+Facebook-https://www.facebook.com
+Baidu-https://www.baidu.com
+Wikipedia-https://www.wikipedia.org
+QQ.com-https://www.qq.com
+Taobao-https://www.taobao.com
+Amazon-https://www.amazon.com
+Tmall-https://www.tmall.com
+Twitter-https://www.twitter.com
